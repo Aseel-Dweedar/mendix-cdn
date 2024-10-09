@@ -285,7 +285,7 @@ body {
   top: 15px;
   left: 15px;
   right: 15px;
-  z-index: 10;
+  width: fit-content;
 }
 .custom-search-input .form-control, .custom-search-container .form-group .form-control, .custom-search-list .mx-listview-searchbar .form-control {
   min-height: 48px;
@@ -293,6 +293,9 @@ body {
   z-index: 6;
   background: transparent;
   max-width: 100%;
+}
+.custom-search-input .form-control:focus, .custom-search-container .form-group .form-control:focus, .custom-search-list .mx-listview-searchbar .form-control:focus {
+  background-color: transparent;
 }
 
 .custom-search-list .mx-listview-searchbar {

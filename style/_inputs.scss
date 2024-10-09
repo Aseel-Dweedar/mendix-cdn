@@ -225,7 +225,8 @@
         top: 15px;
         left: 15px;
         right: 15px;
-        z-index: 10;
+        width: fit-content;
+        // z-index: 10;
     }
 
     .form-control {
@@ -234,6 +235,10 @@
         z-index: 6;
         background: transparent;
         max-width: 100%;
+
+        &:focus {
+            background-color: transparent;
+        }
     }
 }
 
