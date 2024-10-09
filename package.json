@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sass": "sass --watch main.scss:main.css"
+    "sass": "sass --watch style/main.scss:main.css"
   },
   "keywords": [],
   "author": "",
