@@ -1,31 +1,31 @@
 @charset "UTF-8";
 @font-face {
   font-family: "RTA-Regular";
-  src: url("../public/fonts/RTA-Regular.eot");
-  src: url("../public/fonts/RTA-Regular.eot?#iefix") format("embedded-opentype"), url("../public/fonts/RTA-Regular.ttf") format("truetype"), url("../public/fonts/RTA-Regular.woff") format("truetype"), url("../public/fonts/RTA-Regular.woff2") format("truetype");
+  src: url("fonts/RTA-Regular.eot");
+  src: url("fonts/RTA-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/RTA-Regular.ttf") format("truetype"), url("fonts/RTA-Regular.woff") format("truetype"), url("fonts/RTA-Regular.woff2") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "RTA-Bold";
-  src: url("../public/fonts/RTA-Bold.eot");
-  src: url("../public/fonts/RTA-Bold.eot?#iefix") format("embedded-opentype"), url("../public/fonts/RTA-Bold.ttf") format("truetype"), url("../public/fonts/RTA-Bold.woff") format("truetype"), url("../public/fonts/RTA-Bold.woff2") format("truetype");
+  src: url("fonts/RTA-Bold.eot");
+  src: url("fonts/RTA-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/RTA-Bold.ttf") format("truetype"), url("fonts/RTA-Bold.woff") format("truetype"), url("fonts/RTA-Bold.woff2") format("truetype");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "RTA-Light";
-  src: url("../public/fonts/RTA-Light.eot");
-  src: url("../public/fonts/RTA-Light.eot?#iefix") format("embedded-opentype"), url("../public/fonts/RTA-Light.ttf") format("truetype"), url("../public/fonts/RTA-Light.woff") format("truetype"), url("../public/fonts/RTA-Light.woff2") format("truetype");
+  src: url("fonts/RTA-Light.eot");
+  src: url("fonts/RTA-Light.eot?#iefix") format("embedded-opentype"), url("fonts/RTA-Light.ttf") format("truetype"), url("fonts/RTA-Light.woff") format("truetype"), url("fonts/RTA-Light.woff2") format("truetype");
   font-weight: Light;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Glyphicons Halflings";
-  src: url("../public/fonts/glyphicons-halflings-regular.woff2") format("woff2"), url("../public/fonts/glyphicons-halflings-regular.woff") format("woff");
+  src: url("fonts/glyphicons-halflings-regular.woff2") format("woff2"), url("fonts/glyphicons-halflings-regular.woff") format("woff");
 }
 .glyphicon {
   font-family: "Glyphicons Halflings";
